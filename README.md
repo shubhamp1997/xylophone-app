@@ -4,6 +4,7 @@ A beautiful and efficient app that lets you play Xylophone on your mobile device
 
 # Prerequisites
 1. Android Studio/ Microsoft VScode
+2. Flutter development kit 
 2. Dart package should be installed on your local machine(android studio/ VScode)
 
 # Getting Started
